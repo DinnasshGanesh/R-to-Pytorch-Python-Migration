@@ -4,8 +4,7 @@
 A comparative study migrating a traditional hydrological water-balance model (R/Shiny) into a high-performance **Convolutional Neural Network (CNN)** framework using **PyTorch**.
 
 ## 📊 Original R-Shiny Prototype
-The original model was developed in R to provide a real-time dashboard for tank dimensioning.
-I have pasted a few pictures and snippets to under 01_R_Prototype/images to display the UI.
+The original model was developed in R to provide a real-time dashboard for tank dimensioning. I have pasted a few pictures and snippets to under 01_R_Prototype/images to display the UI.
 ---
 
 ## 📁 Repository Structure
