@@ -1,6 +1,6 @@
 # R-to-Pytorch-Python-Migration
 
-Supervisor in discussion for my Master Thesis : Björn Helm [bjoern.helm@tu-dresden.de ( Technische Universität Dresden )]
+Supervisor in discussion for my Master Thesis upcoming winter semester : Björn Helm [bjoern.helm@tu-dresden.de ( Technische Universität Dresden )]
 ### Research Objective
 A comparative study migrating a traditional hydrological water-balance model (R/Shiny) into a high-performance **Convolutional Neural Network (CNN)** framework using **PyTorch**. 
 
